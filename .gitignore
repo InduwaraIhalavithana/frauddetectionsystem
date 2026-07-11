@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environments and Environments Backups
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+fraud_venv/
+.fraud_detect_venv/
+
+# Operational Analytics and Generated Storage Files
+artifacts/
+logs/
+mlruns/
+mlflow.db
+notebook/data/
